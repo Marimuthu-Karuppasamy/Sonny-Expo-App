@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "sonny-expo-app",
+    "slug": "snack-3005ddcb-bf3c-4129-a48a-72bccfe4e8af",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "In this project I will learn 4 different app development projects using React Native, TypeScript, and Expo. \nEach project will help me practice core concepts of mobile development, including UI design, navigation, \nstate management, and integration with native device features. By the end, I will have hands-on experience \nbuilding cross-platform apps with modern tools and frameworks."
+  }
+}
